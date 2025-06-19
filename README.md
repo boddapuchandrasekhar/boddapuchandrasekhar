@@ -57,14 +57,5 @@
 
 <span style="font-size:1.1em">💡&nbsp;You can explore all my repositories below on this GitHub profile!</span>
 
-    </td>
-    <td valign="middle" align="right" width="35%" align="center">
-      <div align="center">
-        <!-- Lights effect using emoji -->
-        <span style="font-size:2em;">💡✨🌟</span><br>
-        <img src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/03/29%20(2)_1678373639.png" alt="Coder Illustration" width="320"/><br>
-        <span style="font-size:2em;">🌟✨💡</span>
-      </div>
-    </td>
-  </tr>
+    
 </table>
