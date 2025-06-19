@@ -32,16 +32,13 @@
   <a href="mailto:boddapuchandu2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/u/CHANDRASEKHAR33/">
+  <a href="https://leetcode.com/u/CHANDRASEKHAR33/",target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.codechef.com/users/your-codechef" target="_blank">
+  <a href="https://www.codechef.com/users/bchandrasekhar" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-  <a href="https://github.com/boddapuchandrasekhar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/boddapu-chandra-sekhar-86aa48272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
