@@ -33,13 +33,15 @@
 
 ## 📊 Power BI & Analytics
 
-- Built custom **interactive dashboards** for analyzing academic, sales, and social media data  
+## 📊 Power BI & Analytics
+
+- Built custom **interactive dashboards** focusing on sports analytics and real estate trends  
 - Projects include:  
-  ✅ Student performance tracker  
-  ✅ Retail sales analytics  
-  ✅ COVID-19 global trend dashboard  
-- Interested in **insight storytelling** through visuals  
-- Tools: Power BI, Tableau (basics), Excel, Python (Seaborn, Matplotlib)
+  ✅ **Virat Kohli 100s Dashboard** — Interactive Power BI report analyzing century trends across formats, venues, and opponents  
+  ✅ **House Price Analysis** — Visual dashboard showing key real estate insights like location-wise pricing, area trends, and correlations  
+- Strong passion for **insight storytelling** through rich visuals and user-focused data navigation  
+- Tools: **Power BI**, Excel, Python (Seaborn, Matplotlib), SQL basics
+Matplotlib)
 
 
 ---
