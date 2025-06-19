@@ -55,7 +55,7 @@
 
 ## <span style="color: #FFD700;">✨📂 Here are my repositories ✨</span>
 
-<span style="font-size:1.1em">💡&nbsp;You can explore all my repositories below on this GitHub profile!</span>
+<span style="font-size:1.1em">💡&nbsp;You can explore all my repositories below </span>
 
-    
+  </tr>  
 </table>
