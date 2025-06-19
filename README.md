@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td valign="middle" width="65%">
+    
 # Hi there, I'm Boddapu Chandra Sekhar 👋
 
 **Aspiring Data Scientist & Full Stack Developer | B.Tech CSE (Data Science) @ VIIT, Vishakapatnam**
@@ -52,4 +56,18 @@
 
 ---
 
-_“Turning data into decisions, and ideas into impactful apps.”_
+## <span style="color: #FFD700;">✨📂 Here are my repositories ✨</span>
+
+<span style="font-size:1.1em">💡&nbsp;You can explore all my repositories below on this GitHub profile!</span>
+
+    </td>
+    <td valign="middle" align="right" width="35%" align="center">
+      <div align="center">
+        <!-- Lights effect using emoji -->
+        <span style="font-size:2em;">💡✨🌟</span><br>
+        <img src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/03/29%20(2)_1678373639.png" alt="Coder Illustration" width="320"/><br>
+        <span style="font-size:2em;">🌟✨💡</span>
+      </div>
+    </td>
+  </tr>
+</table>
