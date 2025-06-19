@@ -56,6 +56,6 @@
 ## <span style="color: #FFD700;">✨📂 Here are my repositories ✨</span>
 
 <span style="font-size:1.1em">💡&nbsp;You can explore all my repositories below </span>
-
+</td>
   </tr>  
 </table>
