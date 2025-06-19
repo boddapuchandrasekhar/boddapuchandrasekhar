@@ -28,14 +28,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHANDRASEKHAR33&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANDRASEKHAR33&theme=tokyonight" alt="Streak Stats" width="48%" />
-</div>
 
 ---
 
@@ -49,16 +41,6 @@
 - Interested in **insight storytelling** through visuals  
 - Tools: Power BI, Tableau (basics), Excel, Python (Seaborn, Matplotlib)
 
----
-
-## 📂 Notable Projects (🚧 Work In Progress)
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| Student Analytics Dashboard | Power BI dashboard with filters, KPIs | Power BI, Excel |
-| E-commerce Web App | A MERN stack app for shopping | MongoDB, Express, React, Node.js |
-| Portfolio Website | Personal portfolio using React | React, TailwindCSS |
-| ML: Diabetes Prediction | Classification model using sklearn | Python, Pandas, Sklearn |
 
 ---
 
@@ -84,14 +66,17 @@
   </a>
 </p>
 
----
+## 🎯 Fun Facts
 
-## ✨ Featured Repositories
-
-- [📁 Data Science Projects](https://github.com/CHANDRASEKHAR33?tab=repositories&q=data&type=source)
-- [📁 Full Stack Web Apps](https://github.com/CHANDRASEKHAR33?tab=repositories&q=web&type=source)
-- [📁 Power BI Dashboards](https://github.com/CHANDRASEKHAR33?tab=repositories&q=powerbi&type=source)
+- I love tackling new coding challenges on LeetCode and CodeChef.  
+- Always eager to learn about the latest trends in Data Science, Web Development, and Data Visualization.  
+- Coffee and curiosity fuel my coding sessions!
 
 ---
+
+## <span style="color: #FFD700;">✨📂 Here are my repositories ✨</span>
+
+<span style="font-size:1.1em">💡&nbsp;You can explore all my repositories below </span>
+
 
 > Thanks for stopping by! Let’s connect and collaborate! 🚀
