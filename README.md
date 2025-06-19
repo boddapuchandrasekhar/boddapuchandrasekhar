@@ -1,4 +1,4 @@
-<table>
+
   <tr>
     <td valign="middle" width="65%">
     
@@ -58,4 +58,4 @@
 <span style="font-size:1.1em">💡&nbsp;You can explore all my repositories below </span>
 </td>
   </tr>  
-</table>
+
